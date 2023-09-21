@@ -1,1 +1,2 @@
 Hi! My name is Lauren!
+This is to practice Git Pull
